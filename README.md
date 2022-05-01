@@ -4,25 +4,25 @@
 **rajveer43/rajveer43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Bhumit Bedse !
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Rajveer Rathod !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Bhumit+Bedse%27s+GitHub+Profile)](https://git.io/typing-svg)
 
 ### About me!
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350">
 
 ```python
-class Bhumit:
+class Rajveer:
     def __init__(self):
         self.info={
             Institute: "Birla Vishvakarma Mahavidhyalaya",
             Status: "Student",
-            Goal: "To Become a Data Scientist"
+            Goal: "To Become a Software Data Scientist"
         }
         self.code=["Java","C++","Python","R","HTML","CSS","JavaScript"]
-        self.tools=["TensorFlow","Flask","NumPy","Pandas","Sklearn"]
-        self.interest=("Problem Solving","Reading Books","Cooking")
+        self.tools=["TensorFlow","Flask","NumPy","Pandas","Sklearn","Theano","Pytorch","Keras"]
+        self.interest=("Problem Solving","Reading Books","Writing")
        
-me = Bhumit()
+me = Rajveer()
 ```
 
 
@@ -53,7 +53,7 @@ me = Bhumit()
 <!--
 **bhumitbedse/bhumitbedse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Skills
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about machine learning, web development, documentation
+- 🌱 I’m currently learning DSA, Data Science
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with competitve coding
+- 💬 Ask me about machine learning, web development, documentation, Data Science
 - 📫 How to reach me: rajveer.rathod1301@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
