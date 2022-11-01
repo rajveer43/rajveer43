@@ -44,7 +44,6 @@ me = Rajveer()
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajveer43&&show_icons=true&title_color=A5EC9C&icon_color=A5EC9C&text_color=F3FAF9&bg_color=22272E">
 
 ---
 
