@@ -1,75 +1,61 @@
+# Rajveer Rathod
 
+📞 +91 9265732511 ⋄ 📧 rajveer.rathod1301@gmail.com
+📍 Kalol, Panchmahals, India ⋄ [Linkedin](https://www.linkedin.com/in/rajveer-rathod) ⋄ [Portfolio](https://www.yourportfolio.com)
 
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Rajveer Rathod !
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Rajveer+Rathod%27s+GitHub+Profile)](https://git.io/typing-svg)
+## About Me
+Passionate about Machine Learning and AI, I'm driven by a strong analytical mindset and a knack for innovative problem-solving. Seeking an engaging and collaborative environment to make significant contributions in the field.
 
-### About me!
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350">
+## Experience
+### Volunteer Machine Learning Developer - Unify Remote (May 2023 - Present)
+- Contributed to Ivy-UnifyAI deep learning framework, focusing on backends for Tensorflow, Pytorch, Numpy, JAX, and PaddlePaddle.
+- Actively engaged in discussions and supported new contributors.
+  
+### Machine Learning Researcher - Physical Research Laboratory, Ahmedabad, India (Jan 2023 - May 2023)
+- Applied Hypergraph Message Passing Neural Networks (HGMPNN) to particle physics jet analysis, enhancing QCD studies.
+- Collaborated with physicists to optimize ML models for high-energy particle collision data, achieving 97% accuracy.
+  
+### Software Engineer Intern - BodhLabs Pvt. Ltd., Anand, India (July 2022 - Dec 2022)
+- Led the development of DefenceHub, a React-based platform for defence aspirants with features like eligibility calculator, e-commerce, coaching center directory, and more.
+- Ensured user-friendly design and scalability, driving user engagement and platform success.
 
-```python
-class Rajveer:
-    def __init__(self):
-        self.info={
-            Institute: "Birla Vishvakarma Mahavidhyalaya",
-            Status: "Student",
-            Goal: "To Become a Software Data Scientist"
-        }
-        self.code=["Java","C++","Python","R","HTML","CSS","JavaScript"]
-        self.tools=["TensorFlow","Flask","NumPy","Pandas","Sklearn","Theano","Pytorch","Keras"]
-        self.interest=("Problem Solving","Reading Books","Writing")
-       
-me = Rajveer()
-```
+### Data Analyst Intern - Consult Anubhav, Vadodara, India (May 2022 - July 2022)
+- Conducted statistical analysis of sports fantasy app Draftsy, improving data-driven insights by 20% through Power BI preprocessing.
+- Developed machine learning algorithms with 78% accuracy for player score forecasting, enhancing user experience.
 
+## Education
+- Bachelor of Technology, Birla Vishvakarma Mahavidyalaya (2019 - 2023)
+  Relevant Coursework: Computer Science, ML, Compiler Design, Network Engineering, Operating System
 
+## Skills
+- Languages: Python, C++, Javascript, HTML, CSS
+- Frameworks: Tensorflow, Pytorch, PyG, JAX, PaddlePaddle, SkLearn, Numpy, Pandas
+- Familiar with: GNN, CNN, Transformers, Open Source LLMs
+- Cloud/Databases: SQL, MongoDB, PostGreSQL, AWS
+- Tools: Git, Github, VS Code, Pycharm, PowerBI, Docker, AWS S3, Github Codespaces
+- Experienced with: NodeJs, ExpressJs, ReactJs
 
----
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)">
-</p>
+## Area of Interest
+AI and Deep Learning, Software Engineering
 
+## Projects
+### AI Job Market Analysis (Python, NLTK)
+- Researched and analyzed the AI job market from Jan 2023 to Aug 2023, collecting data from 500 job boards and websites.
 
----
+### Artificial Consciousness Research Papers
+- Initiated a research project on Artificial Consciousness, synthesizing complex information to explore cognitive science and AI.
 
-<!--
+### Quiz Generator (Python, NLTK)
+- Developed a quiz generator using Spacy and NLTK, streamlining quiz creation by automating question formulation.
 
+## Certification Courses
+- Generative AI with Large Language Models (LLMs) by Coursera and DeepLearning AI.
 
-Here are some ideas to get you
+## Extra-Curricular Activities
+- Active contributor to Machine Learning repositories (HuggingFace, Pytorch, Pytorch Geometric, MindsDB, Numpy, GorillaLLM, DAGWorks Inc., ONNX).
+- Collaborated on innovative research applying HGMPNN to physics jet analysis, presented findings at Physical Research Laboratory.
+- Runner-up at Smart India Hackathon 2022 for ProjectExpo, a knowledge platform benefiting education sector and organizations.
+- Runner-up in GDSC BVM’s Solution Fest with Sign Language Detection project.
+- Volunteer at Bachhpan NGO, mentoring underprivileged students and organizing workshops.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Skills
-- 🌱 I’m currently learning DSA, Data Science
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with competitve coding
-- 💬 Ask me about machine learning, web development, documentation, Data Science
-- 📫 How to reach me: rajveer.rathod1301@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Profile Picture](link-to-your-profile-picture.jpg)
