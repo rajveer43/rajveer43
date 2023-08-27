@@ -1,75 +1,55 @@
-
-
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Rajveer Rathod !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Rajveer+Rathod%27s+GitHub+Profile)](https://git.io/typing-svg)
 
-### About me!
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350">
 
-```python
-class Rajveer:
-    def __init__(self):
-        self.info={
-            Institute: "Birla Vishvakarma Mahavidhyalaya",
-            Status: "Student",
-            Goal: "To Become a Software Data Scientist"
-        }
-        self.code=["Java","C++","Python","R","HTML","CSS","JavaScript"]
-        self.tools=["TensorFlow","Flask","NumPy","Pandas","Sklearn","Theano","Pytorch","Keras"]
-        self.interest=("Problem Solving","Reading Books","Writing")
-       
-me = Rajveer()
-```
+# Hey there, I'm Rajveer Rathod! 👋
 
+📞 +91 9265732511 ⋄ 📧 rajveer.rathod1301@gmail.com
+📍 Kalol, Panchmahals, India ⋄ [Connect with me on Linkedin](https://www.linkedin.com/in/rajveer-rathod) ⋄ [Explore my Portfolio](https://www.yourportfolio.com)
 
+## About Me 🚀
+Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explorer in the realms of Machine Learning and AI. With an unwavering love for innovative solutions and a knack for deciphering complex conundrums, I'm on a journey to shape the future through data-driven magic.
 
----
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)">
-</p>
+## Unraveling Experience 🛠️
+- 🌟 **Volunteer Machine Learning Developer** at *Unify Remote* (May 2023 - Present)
+  - Crafting the future of Ivy-UnifyAI, one commit at a time. Joining forces with Tensorflow, Pytorch, Numpy, JAX, and PaddlePaddle to create the AI symphony.
+- 🤖 **Machine Learning Researcher** at *Physical Research Laboratory, Ahmedabad* (Jan 2023 - May 2023)
+  - Unraveling the universe's secrets through Hypergraph Message Passing Neural Networks (HGMPNN). From high-energy particle collisions to 97% model accuracy, it's been a quantum ride.
+- 💻 **Software Engineer Intern** at *BodhLabs Pvt. Ltd.*, Anand (July 2022 - Dec 2022)
+  - Leading the charge with DefenceHub - a React-based fortress for defense aspirants. From e-commerce to coaching centers, I'm the architect of the dream platform.
+- 📊 **Data Analyst Intern** at *Consult Anubhav*, Vadodara (May 2022 - July 2022)
+  - Taming data dragons and breathing life into insights. With Power BI spells and predictive algorithms, I paved the path to a 20% brighter data-driven future.
 
+## Journey of Knowledge 🎓
+- 🎓 **Bachelor of Technology** from *Birla Vishvakarma Mahavidyalaya* (2019 - 2023)
+  - My toolkit: Computer Science, ML, Compiler Design, Network Engineering, Operating System
 
----
+## Skillful Arsenal ⚙️
+- Languages: Python, C++, Javascript, HTML, CSS
+- Frameworks: Tensorflow, Pytorch, PyG, JAX, PaddlePaddle, SkLearn, Numpy, Pandas
+- Friendly AI Neighbors: GNN, CNN, Transformers, Open Source LLMs
+- Cloud/Databases: SQL, MongoDB, PostGreSQL, AWS
+- Tools of the Trade: Git, Github, VS Code, Pycharm, PowerBI, Docker, AWS S3, Github Codespaces
+- Friendly with: NodeJs, ExpressJs, ReactJs
 
-<!--
+## Code and Creativity 🌈
+- **AI Job Market Analysis** (Python, NLTK)
+  - A quest through the AI job market, gathering insights from the shadows and unraveling secrets from 500 job boards.
 
+- **Artificial Consciousness Research Papers**
+  - Venturing into the realm of Artificial Consciousness, where cognition meets code. Armed with GPT and NLP, I'm deciphering the mysteries.
 
-Here are some ideas to get you
+- **Quiz Generator** (Python, NLTK)
+  - Forging a quiz generator with Spacy and NLTK spells. Words into questions, content into choices—automation at its finest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Beyond the Binary 🌌
+- 🎓 **Certification in Generative AI with Large Language Models (LLMs)** from Coursera and DeepLearning AI.
 
+## Uncharted Adventures 🌟
+- Actively contributing to Machine Learning repositories (HuggingFace, Pytorch, Pytorch Geometric, MindsDB, Numpy, GorillaLLM, DAGWorks Inc., ONNX).
+- Partnering with physicists to unlock the cosmos' secrets with HGMPNN.
+- Runner-up at Smart India Hackathon 2022 for ProjectExpo—a knowledge beacon for education and organizations.
+- Runner-up in GDSC BVM’s Solution Fest with Sign Language Detection project.
+- Volunteering at Bachhpan NGO, weaving dreams through teaching and workshops.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Skills
-- 🌱 I’m currently learning DSA, Data Science
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with competitve coding
-- 💬 Ask me about machine learning, web development, documentation, Data Science
-- 📫 How to reach me: rajveer.rathod1301@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Profile Picture](link-to-your-profile-picture.jpg)
