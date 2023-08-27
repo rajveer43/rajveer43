@@ -53,12 +53,3 @@ Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explo
 - Volunteering at Bachhpan NGO, weaving dreams through teaching and workshops.
 
 ![Profile Picture](link-to-your-profile-picture.jpg)
-
-## Extra-Curricular Activities
-- Active contributor to Machine Learning repositories (HuggingFace, Pytorch, Pytorch Geometric, MindsDB, Numpy, GorillaLLM, DAGWorks Inc., ONNX).
-- Collaborated on innovative research applying HGMPNN to physics jet analysis, presented findings at Physical Research Laboratory.
-- Runner-up at Smart India Hackathon 2022 for ProjectExpo, a knowledge platform benefiting education sector and organizations.
-- Runner-up in GDSC BVM’s Solution Fest with Sign Language Detection project.
-- Volunteer at Bachhpan NGO, mentoring underprivileged students and organizing workshops.
-
-![Profile Picture](link-to-your-profile-picture.jpg)
