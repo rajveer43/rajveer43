@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Rajveer+Rathod%27s+GitHub+Profile)](https://git.io/typing-svg)
 
 📞 +91 9265732511 ⋄ 📧 rajveer.rathod1301@gmail.com
-📍 Vadodara, Gujarat, India ⋄ [Connect with me on Linkedin](https://www.linkedin.com/in/rajveer-rathod) ⋄ [Explore my Portfolio](https://www.yourportfolio.com)
+📍 Vadodara, Gujarat, India ⋄ [Connect with me on Linkedin](https://www.linkedin.com/in/rajveer-rathod) ⋄ [Explore my Portfolio](https://rajveer43.github.io/rajveer-rathod/)
 
 ## About Me 🚀
 Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explorer in the realms of Machine Learning and AI. With an unwavering love for innovative solutions and a knack for deciphering complex conundrums, I'm on a journey to shape the future through data-driven magic.
