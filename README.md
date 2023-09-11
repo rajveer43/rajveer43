@@ -12,7 +12,7 @@
 
 ## About Me 🚀
 Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explorer in the realms of Machine Learning and AI. With an unwavering love for innovative solutions and a knack for deciphering complex conundrums, I'm on a journey to shape the future through data-driven magic.
-
+<!--
 ## Unraveling Experience 🛠️
 - 🌟 **Volunteer Machine Learning Developer** at *Unify* (May 2023 - Present)
   - Crafting the future of Ivy-UnifyAI, one commit at a time. Joining forces with Tensorflow, Pytorch, Numpy, JAX, and PaddlePaddle to create the AI symphony.
@@ -54,7 +54,7 @@ Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explo
 - Runner-up at Smart India Hackathon 2022 for ProjectExpo—a knowledge beacon for education and organizations.
 - Runner-up in GDSC BVM’s Solution Fest with Sign Language Detection project.
 - Volunteering at Bachhpan NGO, weaving dreams through teaching and workshops.
-
+-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveer43&show_icons=true&locale=en&layout=compact" alt="rajveer43" /></p>
 
