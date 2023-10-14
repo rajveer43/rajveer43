@@ -12,51 +12,6 @@
 
 ## About Me 🚀
 Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explorer in the realms of Machine Learning and AI. With an unwavering love for innovative solutions and a knack for deciphering complex conundrums, I'm on a journey to shape the future through data-driven magic.
-<!--
-## Unraveling Experience 🛠️
-- 🌟 **Volunteer Machine Learning Developer** at *Unify* (May 2023 - Present)
-  - Crafting the future of Ivy-UnifyAI, one commit at a time. Joining forces with Tensorflow, Pytorch, Numpy, JAX, and PaddlePaddle to create the AI symphony.
-- 🤖 **Machine Learning Researcher** at *Physical Research Laboratory, Ahmedabad* (Jan 2023 - May 2023)
-  - Unraveling the universe's secrets through Hypergraph Message Passing Neural Networks (HGMPNN). From high-energy particle collisions to 97% model accuracy, it's been a quantum ride.
-- 💻 **Software Engineer Intern** at *BodhLabs Pvt. Ltd.*, Anand (July 2022 - Dec 2022)
-  - Leading the charge with DefenceHub - a React-based fortress for defense aspirants. From e-commerce to coaching centers, I'm the architect of the dream platform.
-- 📊 **Data Analyst Intern** at *Consult Anubhav*, Vadodara (May 2022 - July 2022)
-  - Taming data dragons and breathing life into insights. With Power BI spells and predictive algorithms, I paved the path to a 20% brighter data-driven future.
-
-## Journey of Knowledge 🎓
-- 🎓 **Bachelor of Technology** from *Birla Vishvakarma Mahavidyalaya* (2019 - 2023)
-  - My toolkit: Computer Science, ML, Compiler Design, Network Engineering, Operating System
-
-## Skillful Arsenal ⚙️
-- Languages: Python, C++, Javascript, HTML, CSS
-- Frameworks: Tensorflow, Pytorch, PyG, JAX, PaddlePaddle, SkLearn, Numpy, Pandas
-- Friendly AI Neighbors: GNN, CNN, Transformers, Open Source LLMs
-- Cloud/Databases: SQL, MongoDB, PostGreSQL, AWS
-- Tools of the Trade: Git, Github, VS Code, Pycharm, PowerBI, Docker, AWS S3, Github Codespaces
-- Friendly with: NodeJs, ExpressJs, ReactJs
-
-## Code and Creativity 🌈
-- **AI Job Market Analysis** (Python, NLTK)
-  - A quest through the AI job market, gathering insights from the shadows and unraveling secrets from 500 job boards.
-
-- **Artificial Consciousness**
-  - Venturing into the realm of Artificial Consciousness, where cognition meets code. Armed with GPT and NLP, I'm deciphering the mysteries.
-
-- **Quiz Generator** (Python, NLTK)
-  - Forging a quiz generator with Spacy and NLTK spells. Words into questions, content into choices—automation at its finest.
-
-## Beyond the Binary 🌌
-- 🎓 **Certification in Generative AI with Large Language Models (LLMs)** from Coursera and DeepLearning AI.
-
-## Uncharted Adventures 🌟
-- Actively contributing to Machine Learning repositories (HuggingFace, Pytorch, Pytorch Geometric, MindsDB, Numpy, GorillaLLM, DAGWorks Inc., ONNX).
-- Partnering with physicists to unlock the cosmos' secrets with HGMPNN.
-- Runner-up at Smart India Hackathon 2022 for ProjectExpo—a knowledge beacon for education and organizations.
-- Runner-up in GDSC BVM’s Solution Fest with Sign Language Detection project.
-- Volunteering at Bachhpan NGO, weaving dreams through teaching and workshops.
--->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveer43&show_icons=true&locale=en&layout=compact" alt="rajveer43" /></p>
 
 <p align="left"> <a href="https://twitter.com/rajveer13rathod" target="blank"><img src="https://img.shields.io/twitter/follow/rajveer13rathod?logo=twitter&style=for-the-badge" alt="rajveer13rathod" /></a> </p>
 
