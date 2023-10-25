@@ -26,6 +26,7 @@ Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explo
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveer43&show_icons=true&locale=en&layout=compact" alt="rajveer43" />-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajveer43&show_icons=true&locale=en" alt="rajveer43" /></p>-->
+
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveer43&theme=tokyonight" alt="rajveer43" />
 
 <!--<h3 align="left">Languages and Tools:</h3>
