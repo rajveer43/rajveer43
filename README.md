@@ -10,8 +10,8 @@
 📞 +91 9265732511 <br>
 ⋄📧 rajveer.rathod1301@gmail.com <br>
 📍 Vadodara, Gujarat, India <br>
-[Connect with me on Linkedin](https://www.linkedin.com/in/rajveer-rathod)  <br>
-[Explore my Portfolio](https://rajveer43.github.io/rajveer-rathod/) <br>
+ [Linkedin](https://www.linkedin.com/in/rajveer-rathod)  <br>
+ [Portfolio](https://rajveer43.github.io/rajveer-rathod/) <br>
 
 ## About Me 🚀
 Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explorer in the realms of Machine Learning and AI. With an unwavering love for innovative solutions and a knack for deciphering complex conundrums, I'm on a journey to shape the future through data-driven magic.
