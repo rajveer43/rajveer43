@@ -51,6 +51,8 @@ Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explo
 ### Deep Learning Frameworks
 ![Tensorflow](http://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![Keras](http://img.shields.io/badge/-Keras-white?style=flat-square&logo=keras&logoColor=ff0000)
+![PYTORCH](http://img.shields.io/badge/-Pytorch-orange?style=flat-square&logo=tensorflow&logoColor=ffffff)
+
 
 ### Database
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-3776AB?style=flat-square&logo=postgresql&logoColor=ffffff)
