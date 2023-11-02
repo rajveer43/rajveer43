@@ -37,4 +37,34 @@ Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explo
 ## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=rajveer43&color=blue)
 
+## 🔧 Tools
+### Languages
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+### API
+![FastAPI](http://img.shields.io/badge/-FastAPI-26a699?style=flat-square&logo=fastapi&logoColor=ffffff)
+![Flask](http://img.shields.io/badge/-Flask-3e4349?style=flat-square&logo=flask&logoColor=white)
+![Docker](http://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=ffffff)
+
+### Deep Learning Frameworks
+![Tensorflow](http://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=ffffff)
+![Keras](http://img.shields.io/badge/-Keras-white?style=flat-square&logo=keras&logoColor=ff0000)
+
+### Database
+![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-3776AB?style=flat-square&logo=postgresql&logoColor=ffffff)
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### IDE
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+### OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
