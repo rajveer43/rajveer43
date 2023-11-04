@@ -1,7 +1,7 @@
 ![Profile Picture](link-to-your-profile-picture.jpg)
 
 
-<h3 align="center">A passionate Software Developer developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Rajveer Rathod !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Rajveer+Rathod%27s+GitHub+Profile)](https://git.io/typing-svg)
