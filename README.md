@@ -13,7 +13,7 @@
  [Portfolio](https://rajveer43.github.io/rajveer-rathod/) <br>
 
 ## About Me 🚀
-Greetings fellow wanderer of the digital realms! I'm Rajveer, a passionate explorer in the realms of Machine Learning and AI. With an unwavering love for innovative solutions and a knack for deciphering complex conundrums, I'm on a journey to shape the future through data-driven magic.
+I extend my cordial greetings to you. I am Rajveer, an enthusiastic explorer navigating the realms of Software Engineering, Machine Learning and Artificial Intelligence. Possessing a steadfast commitment to innovative solutions and a proficiency in unraveling intricate challenges, I am dedicated to shaping the future through the application of data-driven methodologies.
 
 <p align="left"> <a href="https://twitter.com/rajveer13rathod" target="blank"><img src="https://img.shields.io/twitter/follow/rajveer13rathod?logo=twitter&style=for-the-badge" alt="rajveer13rathod" /></a> </p>
 
