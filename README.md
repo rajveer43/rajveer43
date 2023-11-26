@@ -1,4 +1,4 @@
-![Profile Picture](link-to-your-profile-picture.jpg)
+![quotes](https://github.com/rajveer43/rajveer43/assets/64583161/ff9f1d7b-333b-4e60-82b3-838c79ef1689)
 
 
 <h3 align="center">A passionate Software Developer from India</h3>
