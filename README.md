@@ -26,7 +26,7 @@ I extend my cordial greetings to you. I am Rajveer, an enthusiastic explorer nav
 
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveer43&show_icons=true&locale=en&layout=compact" alt="rajveer43" />-->
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajveer43&show_icons=true&locale=en" alt="rajveer43" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajveer43&show_icons=true&locale=en" alt="rajveer43" /></p>
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveer43&theme=tokyonight" alt="rajveer43" />
 
