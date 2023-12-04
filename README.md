@@ -11,6 +11,8 @@
 📍 Vadodara, Gujarat, India <br>
  [Linkedin](https://www.linkedin.com/in/rajveer-rathod)  <br>
  [Portfolio](https://rajveer43.github.io/rajveer-rathod/) <br>
+ <br>
+ <br>
 
 ## About Me 🚀
 I extend my cordial greetings to you. I am Rajveer, an enthusiastic explorer navigating the realms of Software Engineering, Machine Learning and Artificial Intelligence. Possessing a steadfast commitment to innovative solutions and a proficiency in unraveling intricate challenges, I am dedicated to shaping the future through the application of data-driven methodologies.
