@@ -74,3 +74,5 @@ I extend my cordial greetings to you. I am Rajveer, an enthusiastic explorer nav
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+[![An image of @rajveer43's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajveer43)](https://holopin.io/@rajveer43)
