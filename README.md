@@ -71,8 +71,7 @@ I extend my cordial greetings to you. I am Rajveer, an enthusiastic explorer nav
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-:star: GitHub Stats       |  📚  📚  📚  📚  📚
-|:----------------------: 
+
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveer43&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
 [![An image of @rajveer43's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajveer43)](https://holopin.io/@rajveer43)
