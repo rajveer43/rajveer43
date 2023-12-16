@@ -17,8 +17,20 @@
 ## About Me 🚀
 I extend my cordial greetings to you. I am Rajveer, an enthusiastic explorer navigating the realms of Software Engineering, Machine Learning and Artificial Intelligence. Possessing a steadfast commitment to innovative solutions and a proficiency in unraveling intricate challenges, I am dedicated to shaping the future through the application of data-driven methodologies.
 
-<p align="left"> <a href="https://twitter.com/rajveer13rathod" target="blank"><img src="https://img.shields.io/twitter/follow/rajveer13rathod?logo=twitter&style=for-the-badge" alt="rajveer13rathod" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/rajveer13rathod" target="blank"><img src="https://img.shields.io/twitter/follow/rajveer13rathod?logo=twitter&style=for-the-badge" alt="rajveer13rathod" /></a> </p>
+-->
+### connect with me
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rajveer-rathod"><img alt="LinkedIn @rajveer-rathod" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=0072b1&style=for-the-badge" /></a>
+<!--<a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-gray.svg?colorA=FF5733&colorB=152437&style=for-the-badge" /></a>-->
+<!--<a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-black.svg?colorA=F6F8FA&colorB=80DBDD&style=for-the-badge" alt="dev.to"/>-->
+<a href="https://twitter.com/rajveer13rathod" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/TWITTER-blue.svg?colorA=12A4DB&colorB=1D9BF0&style=for-the-badge" /></a>
+<a href="https://instagram.com/rajveer.sinh.3101" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-gray.svg?colorA=E4405F&colorB=d62976&style=for-the-badge" /></a>
+<!--<a href="https://hashnode.com/@dhanushnehru"><img alt="Hashnode" align="center" src="https://img.shields.io/badge/HASHNODE-gray.svg?colorA=2962FF&colorB=2962FF&style=for-the-badge" title="Hashnode"/></a>-->
+<a href="https://github.com/rajveer43"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorA=f5f5f5&colorB=4078c0&style=for-the-badge" title="GitHub"/></a>
+</p>
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajveer13rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajveer13rathod" height="30" width="40" /></a>
