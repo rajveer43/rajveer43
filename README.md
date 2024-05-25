@@ -7,6 +7,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Rajveer+Rathod%27s+GitHub+Profile)](https://git.io/typing-svg)-->
 
 📞 +91 9265732511 <br>
+
 📧 rajveer.rathod1301@gmail.com <br>
 📍 Vadodara, Gujarat, India <br>
  [Linkedin](https://www.linkedin.com/in/rajveer-rathod)  <br>
