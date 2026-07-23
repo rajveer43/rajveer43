@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm an AI/ML Engineer working on multi-tenant agentic platforms, internal ML infrastructure, and client-facing ML solutions at **BrainerHub Solutions**. My technical interests span LLM fine-tuning, KV-cache optimization, physics-aware machine learning, and production systems engineering.
+I'm an AI/ML Engineer working on multi-tenant agentic platforms, internal ML infrastructure, and client-facing ML solutions. My technical interests span LLM fine-tuning, KV-cache optimization, physics-aware machine learning, and production systems engineering.
 
 - 🔭 Currently building **CaloSR**, a calorimeter super-resolution project for **GSoC 2026 under ML4Sci / CMS** (CERN open-source), using a GatedINR architecture
 - ⚡ Maintaining **VeloxQuant-MLX**, a KV-cache quantization library for Apple Silicon with 39+ eviction methods
