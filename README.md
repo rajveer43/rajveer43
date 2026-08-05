@@ -4,7 +4,7 @@
 
 # Hi, I'm Rajveer Rathod 👋
 
-**AI/ML Engineer · Building agentic platforms, KV-cache & inference systems, and physics-aware ML**
+**AI/ML Engineer · Building agentic platforms, KV-cache & inference systems**
 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px"/> Ahmedabad, Gujarat, India &nbsp;|&nbsp; 📧 rajveer.rathod1301@gmail.com
 
@@ -19,9 +19,8 @@
 
 ## 🚀 About Me
 
-I'm an AI/ML Engineer working on multi-tenant agentic platforms, internal ML infrastructure, and client-facing ML solutions. My technical interests span LLM fine-tuning, KV-cache optimization, physics-aware machine learning, and production systems engineering.
+I'm an AI/ML Engineer working on multi-tenant agentic platforms, internal ML infrastructure, and client-facing ML solutions. My technical interests span LLM fine-tuning, KV-cache optimization,  and production systems engineering.
 
-- 🔭 Currently building **CaloSR**, a calorimeter super-resolution project for **GSoC 2026 under ML4Sci / CMS** (CERN open-source), using a GatedINR architecture
 - ⚡ Maintaining **VeloxQuant-MLX**, a KV-cache quantization library for Apple Silicon with 39+ eviction methods
 - 🔬 Former HEP-ML researcher at **Physical Research Laboratory** — hypergraph neural networks for jet classification
 - 🌱 Active open-source contributor — 35+ ML repositories including **PyTorch** and **Hugging Face Transformers**
