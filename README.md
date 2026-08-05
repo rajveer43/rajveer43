@@ -36,9 +36,6 @@ I'm an AI/ML Engineer working on multi-tenant agentic platforms, internal ML inf
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 CaloSR
-**GSoC 2026 · ML4Sci / CMS**
-Calorimeter super-resolution using a GatedINR architecture, trained on dual-T4 GPUs. Iterated through v1→v2 with split Fourier embeddings and a deeper occupancy head, backed by full MkDocs documentation.
 
 </td>
 <td width="50%" valign="top">
